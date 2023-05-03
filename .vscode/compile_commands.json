@@ -1,0 +1,66 @@
+[
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/proxy/linux/x86_64/debug/lib/proxy/main.cpp.o", "lib/proxy/main.cpp"],
+  "file": "lib/proxy/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/composite/linux/x86_64/debug/lib/composite/main.cpp.o", "lib/composite/main.cpp"],
+  "file": "lib/composite/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/adapter/linux/x86_64/debug/lib/adapter/main.cpp.o", "lib/adapter/main.cpp"],
+  "file": "lib/adapter/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/chain/linux/x86_64/debug/lib/chain/main.cpp.o", "lib/chain/main.cpp"],
+  "file": "lib/chain/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/bridge/linux/x86_64/debug/lib/bridge/main.cpp.o", "lib/bridge/main.cpp"],
+  "file": "lib/bridge/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/flyweight/linux/x86_64/debug/lib/flyweight/main.cpp.o", "lib/flyweight/main.cpp"],
+  "file": "lib/flyweight/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/factory_method/linux/x86_64/debug/lib/factory_method/main.cpp.o", "lib/factory_method/main.cpp"],
+  "file": "lib/factory_method/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/abstract_factory/linux/x86_64/debug/lib/abstract_factory/main.cpp.o", "lib/abstract_factory/main.cpp"],
+  "file": "lib/abstract_factory/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/prototype/linux/x86_64/debug/lib/prototype/main.cpp.o", "lib/prototype/main.cpp"],
+  "file": "lib/prototype/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/singleton/linux/x86_64/debug/lib/singleton/main.cpp.o", "lib/singleton/main.cpp"],
+  "file": "lib/singleton/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/facade/linux/x86_64/debug/lib/facade/main.cpp.o", "lib/facade/main.cpp"],
+  "file": "lib/facade/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/main/linux/x86_64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/kyros/WorkStations/CPP/disign",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/decorator/linux/x86_64/debug/lib/decorator/main.cpp.o", "lib/decorator/main.cpp"],
+  "file": "lib/decorator/main.cpp"
+}]
