@@ -18,7 +18,15 @@ projects = {
   "flyweight",
   "proxy",
   "chain",
-  "command"
+  "command",
+  "iterator",
+  "mediator",
+  "memento",
+  "observer",
+  "state",
+  "strategy",
+  "template",
+  "visitor"
 }
 
 function solve(project_name)
